@@ -130,3 +130,6 @@
 [submodule "polymer"]
 	path = polymer
 	url = https://github.com/pdevty/polymer.git
+[submodule "dieter"]
+	path = dieter
+	url = git@github.com:Dieterbe/hugo-theme-blog.git
